@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ilham Radan 👋
 
-<!--
-**IlhamRadan/IlhamRadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### SOC Analyst | Blue Team | Cybersecurity
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate with a growing focus on Security Operations,
+security monitoring, log analysis, and incident detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Cybersecurity Focus
+
+- Security Monitoring
+- SIEM & Log Analysis
+- Incident Detection & Response
+- Network Security
+- Digital Forensics
+
+## 🔧 Tools
+
+- Wazuh
+- Suricata
+- Sysmon
+- Wireshark
+- VirusTotal
+- AbuseIPDB
+- CyberChef
+
+## 📂 SOC Projects
+
+Coming soon...
+
+## 📫 Connect With Me
+
+- LinkedIn
+- GitHub
