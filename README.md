@@ -1,6 +1,6 @@
-#👋 Hi, I'm Ilham Radan
+# 👋 Hi, I'm Ilham Radan
 SOC Analyst | Blue Team | Cybersecurity
-##👨‍💻 About Me
+## 👨‍💻 About Me
 
 I’m a Computer Science graduate from Pakuan University with hands-on IT Support and infrastructure experience across government and healthcare environments. My background includes network infrastructure, system administration, hardware and software troubleshooting, and maintaining reliable IT operations.
 
