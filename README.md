@@ -8,8 +8,33 @@ I’m currently transitioning into cybersecurity, with a strong focus on Blue Te
 
 I’m particularly interested in SOC Analyst, Security Monitoring, and Blue Team roles, where I can combine my IT infrastructure foundation with growing capabilities in threat detection, investigation, and incident response.
 
-🛡️ Security Focus
-🔵 Blue Team & SOC — Security monitoring, alert triage, log analysis, and incident investigation.
-📊 Security Monitoring — SIEM, Windows/Linux event analysis, and security log investigation.
-🌐 Network Security — IDS/IPS, network traffic analysis, and packet/PCAP investigation.
-🔎 Digital Forensics — Evidence analysis and investigation across Windows and Linux environments.
+### 🛡️ Security Focus
+
+- 🔵 **Blue Team & SOC** — Security monitoring, alert triage, log analysis, and incident investigation.
+- 📊 **Security Monitoring** — SIEM, Windows/Linux event analysis, and security log investigation.
+- 🌐 **Network Security** — IDS/IPS, network traffic analysis, and packet/PCAP investigation.
+- 🔎 **Digital Forensics** — Evidence analysis and investigation across Windows and Linux environments.
+
+## 🛠️ Cyber Security Toolkit & Tech Stack
+
+### 🔵 SOC & Blue Team
+
+![Wazuh](https://img.shields.io/badge/Wazuh-4A90E2?style=for-the-badge\&logo=wazuh\&logoColor=white)
+![Hayabusa](https://img.shields.io/badge/Hayabusa-1E88E5?style=for-the-badge)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge\&logo=virustotal\&logoColor=white)
+![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-000000?style=for-the-badge)
+
+### 🛡️ Threat Detection, Investigation & DFIR
+
+![CyberChef](https://img.shields.io/badge/CyberChef-000000?style=for-the-badge)
+![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-000000?style=for-the-badge)
+![MITRE ATT\&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-EF3B2D?style=for-the-badge\&logo=mitre\&logoColor=white)
+
+### ⚙️ Development & Lab Environment
+
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge\&logo=virtualbox\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
